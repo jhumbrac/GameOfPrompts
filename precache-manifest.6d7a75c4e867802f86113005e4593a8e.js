@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "9ac78e4b730aeb21d462",
+    "revision": "71565be941197f4bd8f0",
     "url": "/GameOfPrompts/static/css/main.5e3f2d3d.chunk.css"
   },
   {
-    "revision": "9ac78e4b730aeb21d462",
-    "url": "/GameOfPrompts/static/js/main.f4c1350f.chunk.js"
+    "revision": "71565be941197f4bd8f0",
+    "url": "/GameOfPrompts/static/js/main.7531de01.chunk.js"
   },
   {
     "revision": "4f8f6fbe084ed8458ef1",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/GameOfPrompts/static/media/bg.332b0945.jpg"
   },
   {
-    "revision": "a8ccc5b704b467f73871ba4fd6a2182d",
+    "revision": "edf2c80a5e6f998aaa761da66a451c00",
     "url": "/GameOfPrompts/index.html"
   }
 ];
