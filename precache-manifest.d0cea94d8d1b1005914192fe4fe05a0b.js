@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/GameOfPrompts/static/media/bg.332b0945.jpg"
   },
   {
-    "revision": "932027a175dbdc1317719fce1934a000",
+    "revision": "db1547fec17742cc7876b53ebc2fa522",
     "url": "/GameOfPrompts/index.html"
   }
 ];
